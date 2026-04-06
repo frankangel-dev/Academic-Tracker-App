@@ -1,62 +1,32 @@
-# 🗓️ School Term Scheduler
+# Academic Tracker
 
-A simple and efficient mobile application to help students plan, organize, and track their academic terms, courses, and assessments.
-
----
-
-## ✨ Features
-
-- ✅ Manage Terms (add, edit, delete)
-- ✅ Organize Courses within Terms
-- ✅ Track Course Details
-- ✅ Schedule and Manage Assessments
-- ✅ Set Notifications for important dates
-- ✅ Clean and minimalist design
-- ✅ Built with .NET MAUI & MVVM Community Toolkit
+A mobile application designed to help students plan and organize their academic terms, courses, and assessments. Built with .NET MAUI and the MVVM Community Toolkit, it provides a straightforward interface for managing an educational schedule.
 
 ---
 
-## 📸 Screenshots
+## Tech Stack
 
-### 🏠 Home (Term Scheduler)
-<img src="Screenshots/Home.png" width="250">
-
-### 📚 Term View
-<img src="Screenshots/Term.png" width="250">
-
-### 📖 Course Details
-<img src="Screenshots/Course.png" width="250">
-
-### 🗂️ Assessment Overview
-<img src="Screenshots/Assessment.png" width="250">
-
-### 📝 Assessment Details
-<img src="Screenshots/Detail.png" width="250">
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge)
 
 ---
 
-## 🛠 Tech Stack
+## Features
 
-- .NET MAUI (Multi-platform UI framework)
-- MVVM Community Toolkit
-- C#
-- XAML
-
----
-
-## ✅ Why This Project?
-
-### This project demonstrates:
-- A fully functional CRUD application
-- Clean MVVM pattern using the MVVM Community Toolkit
-- Cross-platform compatibility with .NET MAUI
-- Data persistence for offline use
-- Clean, user-friendly interface
+- **Term Management:** Add, edit, and delete academic terms with specific start and end dates.
+- **Course Organization:** Track individual courses within each term to keep your schedule organized.
+- **Assessment Tracking:** Schedule and manage different types of assessments for your courses.
+- **Quick Actions:** Built-in swipe gestures allow you to quickly edit or delete courses and assessments right from the list.
+- **Notifications:** Set reminders for important upcoming start dates, end dates, and assessments.
+- **Clean Interface:** A straightforward design focused on usability and quick data entry.
 
 ---
 
-## ⚡ Future Improvements
-- Progress Tracking
-- Cloud Sync & Authentication
-- Improved Notification System
-- Exporting Reports to PDF
+## Screenshots
+
+| | |
+|:---:|:---:|
+| <img src="Screenshots/Home.png" width="250"><br>Home | <img src="Screenshots/Term.png" width="250"><br>Term View |
+| <img src="Screenshots/Assessment.png" width="250"><br>Assessments | <img src="Screenshots/Detail.png" width="250"><br>Assessment Details |
+| <img src="Screenshots/Course.png" width="250"><br>Course Details |
